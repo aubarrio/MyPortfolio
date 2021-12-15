@@ -28,6 +28,6 @@ kaggle competitions download -c tabular-playground-series-dec-2021
 
 * **main.ipynb**: A jupyter notebook outlining my full machine learning process from start to finish for this competition
 * **training_1**: A folder that has the latest TensorFlow NN model used for this project
-* **data/submission1.csv**: My first submission using a SGD classifier
-* **data/submission2.csv**: My second submission using a TensorFlow NN model
+* **data/submission1.csv**: My first submission using a SGD classifier achieving 89.9% accuracy
+* **data/submission2.csv**: My second submission using a TensorFlow NN model achieving 93.4% accuracy
 * **data/sample_submission.csv**: Sample submission file provided by kaggle
