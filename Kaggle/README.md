@@ -4,7 +4,7 @@
 
 ###### By: Aurelio Barrios
 
-This project is used to showcase a brief approach to a kaggle machine learning competition start to finish. Although the process shown in this project is not extensive it aims to provide a basis on which to build on. This project showcases data analysis processes like feature engineering, feature selection as well as machine learning tasks like hyper-parameter tuning.
+This project is used to showcase a brief approach to a [kaggle machine learning competition](https://www.kaggle.com/c/tabular-playground-series-dec-2021/overview) start to finish. Although the process shown in this project is not extensive it aims to provide a basis on which to build on. This project showcases data analysis processes like feature engineering, feature selection as well as machine learning tasks like hyper-parameter tuning.
 
 ### What Is Shown In This Project
 
