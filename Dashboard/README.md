@@ -1,6 +1,6 @@
 # Interactive Dashboard From Scratch
 
-### Building A Premier League Dashboard Using Javascript
+### Building A Premier League Dashboard Using Javascript and Highcharts
 
 ###### By: Aurelio Barrios
 
