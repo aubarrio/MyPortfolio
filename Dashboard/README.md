@@ -19,6 +19,7 @@ Feel free to interact with this project through my [personal website](https://au
   * HTML
   * CSS
   * JavaScript
+  * Pandas (Data Handling)
   
 ### Contents
 
